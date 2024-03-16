@@ -3,14 +3,14 @@
 // @namespace    https://github.com/diary001/moonbounce
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
-// @version      1.0.0
+// @version      1.0.1
 // @description  ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://*/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png
 // @grant        none
-// @downloadURL  https://github.com/diary001/moonbounce/raw/main/chatKeybind.user.js
-// @updateURL    https://github.com/diary001/moonbounce/raw/main/chatKeybind.user.js
+// @downloadURL  https://update.greasyfork.org/scripts/490052/Moonbounce%20Chat%20Keybind.user.js
+// @updateURL    https://update.greasyfork.org/scripts/490052/Moonbounce%20Chat%20Keybind.meta.js
 // ==/UserScript==
 
 (function() {

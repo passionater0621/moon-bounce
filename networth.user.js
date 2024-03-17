@@ -9,8 +9,8 @@
 // @match        *://moonbounce.gg/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png
 // @grant        none
-// @downloadURL  https://github.com/diary001/moonbounce/raw/main/networth.user.js
-// @updateURL    https://github.com/diary001/moonbounce/raw/main/networth.user.js
+// @downloadURL  https://update.greasyfork.org/scripts/490127/Moonbounce%20Networth%20Calculator.user.js
+// @updateURL    https://update.greasyfork.org/scripts/490127/Moonbounce%20Networth%20Calculator.meta.js
 // ==/UserScript==
 
 

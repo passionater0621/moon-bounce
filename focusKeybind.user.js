@@ -9,8 +9,8 @@
 // @match        *://*/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png
 // @grant        none
-// @downloadURL  https://github.com/diary001/moonbounce/raw/main/focusKeybind.user.js
-// @updateURL    https://github.com/diary001/moonbounce/raw/main/focusKeybind.user.js
+// @downloadURL https://update.greasyfork.org/scripts/494339/Moonbounce%20Focus%20Keybind.user.js
+// @updateURL https://update.greasyfork.org/scripts/494339/Moonbounce%20Focus%20Keybind.meta.js
 // ==/UserScript==
 
 (function() {

@@ -3,7 +3,7 @@
 // @namespace    https://github.com/diary001/moonbounce
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
-// @version      1.0.0
+// @version      1.0.1
 // @description  ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://*/*
@@ -37,7 +37,6 @@
   document.addEventListener('keydown', function(event) {
     if (event.key === '=') {
       toggleFocus();
-      // setTimeout(focusInput, 1);
     }
   });
 })();

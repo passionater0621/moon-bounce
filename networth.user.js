@@ -3,8 +3,8 @@
 // @namespace    https://github.com/diary001/moonbounce
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
-// @version      1.0.0
-// @description  ((made with <3 by lune))
+// @version      1.0.1
+// @description  Adds the diffuse price of all the items in your inventory and displays how much everything is worth. ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://moonbounce.gg/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png

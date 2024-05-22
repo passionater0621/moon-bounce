@@ -4,7 +4,7 @@
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
 // @version      1.0.4
-// @description  ((made with <3 by lune))
+// @description  Allows you to use the "/" key to open and close the chat. ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://*/*
 // @icon         https://framerusercontent.com/images/iuVZmsE2sifPExZXNrETQrDkU.png

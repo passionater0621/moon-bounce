@@ -3,7 +3,7 @@
 // @namespace    https://github.com/diary001/moonbounce
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
-// @version      1.0.4
+// @version      1.0.5
 // @description  Allows you to use the "/" key to open and close the chat. ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://*/*

@@ -3,7 +3,7 @@
 // @namespace    https://github.com/diary001/moonbounce
 // @supportURL   https://discord.gg/mbe
 // @license      MIT
-// @version      1.0.2
+// @version      1.0.3
 // @description  Allows you to use the "=" key to toggle focus. ((made with <3 by lune))
 // @author       lune / linktr.ee/moon
 // @match        *://*/*

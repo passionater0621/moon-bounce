@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Moonbounce Chat Keybind
 // @namespace    https://github.com/diary001/moonbounce
-// @supportURL   https://discord.gg/mbe
+// @supportURL   https://discord.gg/pixel
 // @license      MIT
 // @version      1.0.5
 // @description  Allows you to use the "/" key to open and close the chat. ((made with <3 by lune))

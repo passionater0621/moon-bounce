@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Moonbounce Movement Keybinds
 // @namespace    https://github.com/diary001/moonbounce
-// @supportURL   https://discord.gg/mbe
+// @supportURL   https://discord.gg/pixel
 // @license      MIT
 // @version      1.0.2
 // @description  Allows you to use the WASD keys to move around. ((made with <3 by lune))

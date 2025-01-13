@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Moonbounce Networth Calculator
 // @namespace    https://github.com/diary001/moonbounce
-// @supportURL   https://discord.gg/mbe
+// @supportURL   https://discord.gg/pixel
 // @license      MIT
 // @version      1.0.1
 // @description  Adds the diffuse price of all the items in your inventory and displays how much everything is worth. ((made with <3 by lune))
